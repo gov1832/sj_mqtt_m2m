@@ -1,0 +1,3 @@
+TIME,SUB/PUB,Topic,Payload
+2022-10-17 19:03:31.083,PUB,/elsa/elsa-1/system/status,"b'{""enabled"": true, ""elevators"": [{""id"": ""f41cc2c0-4e02-11ed-9209-dcfb488dcda0"", ""enabled"": true}]}'"
+2022-10-17 19:03:36.473,PUB,/elsa/elsa-1/elevator/ev-204-1/robot/wmr001/door/state,"b'{""state"": 0}'"

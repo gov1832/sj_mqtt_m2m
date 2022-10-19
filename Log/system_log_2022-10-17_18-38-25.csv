@@ -1,0 +1,7 @@
+TIME,SUB/PUB,Topic,Payload
+2022-10-17 18:38:25.587,PUB,/elsa/elsa-1/elevator/ev-204-1/robot/wmr001/floor,"b'{""floor"": 1}'"
+2022-10-17 18:38:26.873,PUB,/elsa/elsa-1/elevator/ev-204-1/robot/wmr001/floor,"b'{""floor"": 2}'"
+2022-10-17 18:38:26.999,PUB,/elsa/elsa-1/elevator/ev-204-1/robot/wmr001/floor,"b'{""floor"": 2}'"
+2022-10-17 18:38:28.492,PUB,/elsa/elsa-1/elevator/ev-204-1/robot/wmr001/floor,"b'{""floor"": 3}'"
+2022-10-17 18:38:30.311,PUB,/elsa/elsa-1/elevator/ev-204-1/robot/wmr001/arrival,"b'{""info"": 1, ""floor"": 1}'"
+2022-10-17 18:38:33.759,PUB,/elsa/elsa-1/elevator/ev-204-1/robot/wmr001/door/state,"b'{""state"": 2}'"
